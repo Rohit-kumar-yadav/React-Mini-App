@@ -1,7 +1,7 @@
 const config = [
     {
         id: 1,
-        title:'simple calculator app',
+        title:'simple calculator App',
         description:'this is a simple calculator app',
         link:'/calculator'
     },
@@ -13,24 +13,24 @@ const config = [
     },
    {
     id: 3,
-    title:'Basic Stopwatch',
+    title:'Basic Stopwatch App',
     description:'this is a basic stopwatch app',
     link:'/stopwatch'
    },{
-    id: 1,
-    title:'simple calculator app',
+    id: 4,
+    title:'simple calculator App',
     description:'this is a simple calculator app',
     link:'/calculator'
 },
 {
-    id: 2,
+    id: 5,
     title:'Random number generator',
     description:'this is a random number generator app',
     link:'/random-number-generator'
 },
 {
-id: 3,
-title:'Basic Stopwatch',
+id: 6,
+title:'Basic Stopwatch App',
 description:'this is a basic stopwatch app',
 link:'/stopwatch'
 }
