@@ -33,8 +33,9 @@ function Home() {
             <p>{item.description}</p>
             <Button className="hover:bg-cyan-200 rounded-sm"
               sx={{
-                margin: "0.1rem",
-                padding: "0.1rem",
+                width:'80%',
+                marginTop: "1rem",
+                padding: "0.15rem",
                 fontSize: "0.5rem",
                 borderRadius: "5px",
                 cursor: "pointer",
